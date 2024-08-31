@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "love.wlyxyn.top"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".wlyxyn.top"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "wlyxyn"
+      ]
+    },
+    {
+      "ip_cidr": [
+        
+      ]
+    }
+  ]
+}

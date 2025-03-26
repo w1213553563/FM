@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,soulvoice.club
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
-DOMAIN-KEYWORD,btschool
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve

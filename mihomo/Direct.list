@@ -6,15 +6,15 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,wlyxyn.top
-DOMAIN-SUFFIX,haidan.video
-DOMAIN-SUFFIX,pttime.org
-DOMAIN-SUFFIX,soulvoice.club
-DOMAIN-SUFFIX,carpt.net
-DOMAIN-SUFFIX,ptcafe.club
-DOMAIN-SUFFIX,btschool.club
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
+DOMAIN-KEYWORD,haidan
+DOMAIN-KEYWORD,pttime
+DOMAIN-KEYWORD,soulvoice
+DOMAIN-KEYWORD,carpt
+DOMAIN-KEYWORD,ptcafe
+DOMAIN-KEYWORD,btschool
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve

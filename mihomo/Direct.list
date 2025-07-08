@@ -9,12 +9,12 @@ DOMAIN-SUFFIX,wlyxyn.top
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
-DOMAIN-KEYWORD,haidan
-DOMAIN-KEYWORD,pttime
-DOMAIN-KEYWORD,soulvoice
-DOMAIN-KEYWORD,carpt
-DOMAIN-KEYWORD,ptcafe
-DOMAIN-KEYWORD,btschool
+# DOMAIN-KEYWORD,haidan
+# DOMAIN-KEYWORD,pttime
+# DOMAIN-KEYWORD,soulvoice
+# DOMAIN-KEYWORD,carpt
+# DOMAIN-KEYWORD,ptcafe
+# DOMAIN-KEYWORD,btschool
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
